@@ -10,7 +10,7 @@ This component is part of the larger project `@leksialevin7700/space-debris-mult
 
 ---
 
-## ✨ Key Capabilities
+##  Key Capabilities
 
 * Agentic workflow: **Propose → Self‑Critique → Decide → Finalize**
 * Confidence‑based retry loop for improved decision quality
@@ -20,7 +20,7 @@ This component is part of the larger project `@leksialevin7700/space-debris-mult
 
 ---
 
-## 🧠 Workflow
+##  Workflow
 
 <img
   src="https://github.com/user-attachments/assets/9a380b6f-31e6-4d0b-b08b-321919f91d66"
@@ -40,7 +40,7 @@ This component is part of the larger project `@leksialevin7700/space-debris-mult
 
 ---
 
-## 📦 Output Schema
+##  Output Schema
 
 Each execution returns a structured result:
 
