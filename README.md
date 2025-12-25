@@ -1,6 +1,5 @@
 # Maneuver Agent
-
-An **agentic satellite maneuver proposal system** that uses a Large Language Model (LLM) to propose, self‑critique, iterate, and finalize collision‑avoidance maneuvers for spacecraft conjunctions.
+This uses a Large Language Model (LLM) to propose, self‑critique, iterate, and finalize collision‑avoidance maneuvers for spacecraft conjunctions.
 
 The system is **LLM‑agnostic** via a thin adapter (`call_adk_model`), allowing easy integration with different ADK / LLM providers (e.g., Google Gemini).
 
