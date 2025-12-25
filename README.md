@@ -4,6 +4,7 @@ An **agentic satellite maneuver proposal system** that uses a Large Language Mod
 
 The system is **LLM‑agnostic** via a thin adapter (`call_adk_model`), allowing easy integration with different ADK / LLM providers (e.g., Google Gemini).
 
+This component is part of the larger project `@leksialevin7700/space-debris-multi-llm` and corresponds to the "model C" portion of that repository.
 
 Inject secrets at runtime (never commit keys or bake them into images).
 
