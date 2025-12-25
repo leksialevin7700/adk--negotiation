@@ -22,7 +22,14 @@ This component is part of the larger project `@leksialevin7700/space-debris-mult
 
 ## 🧠 Workflow
 
-<img width="1630" height="3762" alt="image" src="https://github.com/user-attachments/assets/9a380b6f-31e6-4d0b-b08b-321919f91d66" />
+<img
+  src="https://github.com/user-attachments/assets/9a380b6f-31e6-4d0b-b08b-321919f91d66"
+  alt="Maneuver Agent Workflow"
+  width="200"
+/>
+
+
+
 
 
 **Decision logic:**
