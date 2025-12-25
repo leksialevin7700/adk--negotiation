@@ -1,0 +1,10 @@
+python-dotenv
+pyyaml
+# Optional for web + scheduler:
+fastapi
+uvicorn[standard]
+apscheduler
+google-genai
+pydantic
+# Add your ADK client here, e.g.
+# google-generativeai
