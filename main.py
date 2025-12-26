@@ -6,7 +6,7 @@ import sys
 from pprint import pprint
 
 # Import the agent implementation (adjust import if you placed the module elsewhere)
-from maneuver_agent_adk import run_multi_llm_negotiation
+from adk import run_multi_llm_negotiation
 
 
 def parse_args():
