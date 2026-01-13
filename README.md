@@ -5,7 +5,7 @@ The system is **LLM‑agnostic** via a thin adapter (`call_adk_model`), allowing
 
 This component is part of the larger project `@leksialevin7700/space-debris-multi-llm` and corresponds to the **Model‑C (Maneuver Agent)** portion of that repository.
 
-> **Security note**: Inject secrets at runtime only (environment variables or secret managers). Never commit API keys or bake them into images.
+> **Security note**: Inject secrets at runtime only (environment variables or secret managers). Never commit API keys or bake them into images...
 
 ---
 
